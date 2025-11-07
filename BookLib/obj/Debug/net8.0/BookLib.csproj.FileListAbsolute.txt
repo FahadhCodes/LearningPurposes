@@ -1,0 +1,14 @@
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\bin\Debug\net8.0\BookLib.exe
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\bin\Debug\net8.0\BookLib.deps.json
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\bin\Debug\net8.0\BookLib.runtimeconfig.json
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\bin\Debug\net8.0\BookLib.dll
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\bin\Debug\net8.0\BookLib.pdb
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\obj\Debug\net8.0\BookLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\obj\Debug\net8.0\BookLib.AssemblyInfoInputs.cache
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\obj\Debug\net8.0\BookLib.AssemblyInfo.cs
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\obj\Debug\net8.0\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\obj\Debug\net8.0\BookLib.dll
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\obj\Debug\net8.0\refint\BookLib.dll
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\obj\Debug\net8.0\BookLib.pdb
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\obj\Debug\net8.0\BookLib.genruntimeconfig.cache
+C:\Users\FHD29\Desktop\C# Exam prep\BookLib\BookLib\obj\Debug\net8.0\ref\BookLib.dll
